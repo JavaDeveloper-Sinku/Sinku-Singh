@@ -93,7 +93,7 @@ I am a **Java Backend Developer** skilled in building scalable systems using **S
 ✔ Clean 3-layered architecture  
 ✔ Highly scalable design  
 
-🔗 GitHub: *Add link here*
+🔗 GitHub: https://github.com/JavaDeveloper-Sinku/ecom-Microservice_CodeBase
 
 ---
 
@@ -103,7 +103,7 @@ I am a **Java Backend Developer** skilled in building scalable systems using **S
 ✔ Printable PDF receipts  
 ✔ Super-fast UI made for cashier use  
 
-🔗 GitHub: *Add link here*
+🔗 GitHub: https://github.com/JavaDeveloper-Sinku/Restaurant-pos_SystemUi
 
 
 ---
@@ -115,7 +115,7 @@ I am a **Java Backend Developer** skilled in building scalable systems using **S
 ✔ Eureka Discovery Server  
 ✔ Resilience4J, Config Server  
 
-🔗 GitHub: *Add link here*
+🔗 GitHub: 
 
 ---
 
