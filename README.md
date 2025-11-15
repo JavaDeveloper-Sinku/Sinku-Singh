@@ -133,6 +133,7 @@ I am a **Java Backend Developer** skilled in building scalable systems using **S
 - 📧 Email: sinkusingh173@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/sinku-singh-7a22ab233/
 - 🐙 GitHub: https://github.com/JavaDeveloper-Sinku
+- 🔗 Portfolio: https://sinku-portfolio.vercel.app/
 
 
 ---
