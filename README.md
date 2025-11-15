@@ -1,54 +1,149 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<!-- Animated GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" />
+</p>
 
-###
+# 👋 Hi, I'm <span style="color:#9b59b6">Rishi Singh</span>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+## 🚀 **Java Backend Developer | Spring Boot | Microservices | System Design**
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9B59B6&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Specialist;Microservices+Architect;System+Design+Enthusiast;Building+Scalable+High-Performance+Backends" />
+</p>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 🎨 Badges
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-###
+---
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+## 🔥 **About Me**
+- 💻 Java Backend Developer passionate about scalable REST APIs and microservices
+- ⚙️ Strong in Spring Boot, JPA/Hibernate, and database architecture
+- 🚀 Love building real-world production apps
+- 📚 Improving DSA + System Design daily
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠️ **Tech Stack**
 
-###
+### 🧩 **Backend**
+- Java 8+
+- Spring Boot, Spring MVC, Spring Security
+- Hibernate / JPA
+- Microservices, API Gateway, Eureka
+- REST APIs
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
+### 🗄️ **Database**
+- MySQL
+- PostgreSQL
+- MongoDB (Basic)
 
-###
+### 🐳 **DevOps / Tools**
+- Docker
+- Git & GitHub
+- Postman
+- IntelliJ IDEA
+- VS Code
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📘 **Other Skills**
+- DSA in Java
+- System Design
+- OOPs
+- Multithreading
 
-###
+---
+
+# ⭐ Expanded Projects Section
+
+## 🔥 **1. E-Commerce Backend — Spring Boot + JWT + MySQL**
+- Secure login/signup with JWT
+- Admin + Customer modules
+- Product, Order, Cart, Payment flow
+- Clean layered architecture
+- **Tech:** Java, Spring Boot, MySQL, JWT
+
+🔗 GitHub Repo: `[Add Link]`
+
+---
+
+## 🍽️ **2. Restaurant POS System — Spring Boot + Next.js**
+- Full offline billing system
+- Menu items, orders, receipts
+- Smooth UI, real-time calculations
+- Downloadable PDF bills
+
+🔗 GitHub Repo: `[Add Link]`
+
+---
+
+## 🎥 **3. AI Video Agent — Next.js + Python + FFmpeg**
+- Long videos → Short clips
+- Auto subtitle generation
+- Audio cleanup + compression
+- AI-powered processing
+
+🔗 GitHub Repo: `[Add Link]`
+
+---
+
+## 🧩 **4. Microservices Application — Spring Cloud**
+- Product Service
+- Order Service
+- API Gateway
+- Eureka Discovery Server
+- Centralized config + resilience
+
+🔗 GitHub Repo: `[Add Link]`
+
+---
+
+## 👨‍💻 Experience / Freelance Work
+- Built production-level apps for clients
+- POS, CRM, automation systems
+- API Integrations & authentication systems
+
+---
+
+## 🎓 Education
+**Bachelor's Degree in Computer Science**
+- Data Structures
+- DBMS
+- Operating System
+- Networking
+- OOPs
+
+---
+
+## 📜 Certifications
+- Java Programming
+- Spring Boot
+- SQL Advanced
+- AWS Cloud Basics
+- DSA Bootcamp
+
+---
+
+## ⭐ Testimonials
+> "Rishi delivers production-ready backend systems with clean structure and fast performance." — Client Review
+
+---
+
+## 📬 Contact Me
+- 📧 Email: your-email@example.com
+- 🔗 LinkedIn: https://linkedin.com/in/your-profile
+- 🐙 GitHub: https://github.com/your-username
+- 📄 Resume Download: `[Add Link]`
+
+---
+
+<p align="center">✨ Built with ❤️ using Java, Spring Boot & Next.js ✨</p>
